@@ -32,3 +32,7 @@ No descarga cambios a la rama local solo trae los metadatos
 Sincroniza la rama local con lo que hay en la remota
 en otras palabras descarga los commits que hay en la remotay faltan en la local
 
+
+
+Rmas:
+todo: definicion de remas.
