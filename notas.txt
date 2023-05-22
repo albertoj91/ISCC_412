@@ -35,4 +35,5 @@ en otras palabras descarga los commits que hay en la remotay faltan en la local
 
 
 Rmas:
-todo: definicion de remas.
+Las ramas nos permiten  trabajr con el repositorio sin alterar la estabilidad  
+de la rama principal 
