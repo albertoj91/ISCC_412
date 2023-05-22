@@ -37,3 +37,7 @@ en otras palabras descarga los commits que hay en la remotay faltan en la local
 Rmas:
 Las ramas nos permiten  trabajr con el repositorio sin alterar la estabilidad  
 de la rama principal 
+
+Integracion ramas :
+para este fin se utiliza la operacion"merge
+un merge que conbina los commits de una rama hacia otraen un solo commit
